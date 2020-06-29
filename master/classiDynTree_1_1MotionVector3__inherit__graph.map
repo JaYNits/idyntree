@@ -1,0 +1,9 @@
+<map id="iDynTree::MotionVector3" name="iDynTree::MotionVector3">
+<area shape="rect" id="node5" href="$classiDynTree_1_1MotionVector3.html" title="iDynTree::MotionVector3\l\&lt; LinearMotionVector3 \&gt;" alt="" coords="1069,5,1254,47"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1MotionVector3.html" title="iDynTree::MotionVector3\l\&lt; AngularMotionVector3 \&gt;" alt="" coords="1064,71,1259,112"/>
+<area shape="rect" id="node2" href="$classiDynTree_1_1GeomVector3.html" title="iDynTree::GeomVector3\l\&lt; MotionT \&gt;" alt="" coords="435,39,609,80"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1GeomVector3.html" title="Template class providing the raw coordinates and semantics for any geometric relation vector..." alt="" coords="125,46,300,73"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="5,46,76,73"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1LinearMotionVector3.html" title="Class providing the raw coordinates and semantics for any linear motion vector. " alt="" coords="1313,13,1533,39"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1AngularMotionVector3.html" title="Class providing the raw coordinates and semantics for any angular motion vector. " alt="" coords="1308,78,1539,105"/>
+</map>

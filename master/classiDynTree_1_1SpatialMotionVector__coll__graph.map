@@ -1,0 +1,8 @@
+<map id="iDynTree::SpatialMotionVector" name="iDynTree::SpatialMotionVector">
+<area shape="rect" id="node2" href="$classiDynTree_1_1SpatialVector.html" title="iDynTree::SpatialVector\l\&lt; SpatialMotionVector \&gt;" alt="" coords="1349,77,1532,118"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1SpatialMotionForceVectorT__traits.html" title="iDynTree::SpatialMotionForce\lVectorT_traits\&lt; DerivedSpatialVecT \&gt;" alt="" coords="550,121,819,162"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1SpatialVector.html" title="iDynTree::SpatialVector" alt="" coords="963,84,1136,111"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1SpatialMotionForceVectorT__traits.html" title="Traits class for SpatialMotionVector and SpatialForceVector classes. " alt="" coords="5,113,256,169"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1SpatialVectorSemantics.html" title="iDynTree::SpatialVectorSemantics\l\&lt; typename LinearVector3T::\lSemanticsType, typename AngularVector3\lT::SemanticsType \&gt;" alt="" coords="536,14,833,85"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1SpatialVectorSemantics.html" title="iDynTree::SpatialVectorSemantics" alt="" coords="10,36,251,63"/>
+</map>

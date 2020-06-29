@@ -1,0 +1,25 @@
+<map id="OptimalControl.h" name="OptimalControl.h">
+<area shape="rect" id="node2" href="$DynamicalSystem_8h.html" title="iDynTree/DynamicalSystem.h" alt="" coords="578,155,793,181"/>
+<area shape="rect" id="node19" href="$LinearSystem_8h.html" title="iDynTree/LinearSystem.h" alt="" coords="831,80,1015,107"/>
+<area shape="rect" id="node36" href="$Constraint_8h.html" title="iDynTree/Constraint.h" alt="" coords="243,155,405,181"/>
+<area shape="rect" id="node37" href="$ConstraintsGroup_8h.html" title="iDynTree/ConstraintsGroup.h" alt="" coords="1336,80,1544,107"/>
+<area shape="rect" id="node38" href="$Cost_8h.html" title="iDynTree/Cost.h" alt="" coords="430,155,554,181"/>
+<area shape="rect" id="node39" href="$OptimalControlProblem_8h.html" title="iDynTree/OptimalControlProblem.h" alt="" coords="1064,80,1312,107"/>
+<area shape="rect" id="node40" href="$TimeRange_8h.html" title="iDynTree/TimeRange.h" alt="" coords="1569,80,1738,107"/>
+<area shape="rect" id="node3" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="245,229,467,256"/>
+<area shape="rect" id="node15" href="$SparsityStructure_8h.html" title="iDynTree/SparsityStructure.h" alt="" coords="491,229,698,256"/>
+<area shape="rect" id="node4" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="494,603,655,629"/>
+<area shape="rect" id="node16" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1333,603,1491,629"/>
+<area shape="rect" id="node20" href="$TimeVaryingObject_8h.html" title="iDynTree/TimeVaryingObject.h" alt="" coords="868,155,1087,181"/>
+<area shape="rect" id="node21" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="346,379,569,405"/>
+<area shape="rect" id="node22" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="923,229,1117,256"/>
+<area shape="rect" id="node23" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="861,304,1043,331"/>
+<area shape="rect" id="node29" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1130,379,1313,405"/>
+<area shape="rect" id="node31" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1853,528,2067,555"/>
+<area shape="rect" id="node34" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="797,528,1059,555"/>
+<area shape="rect" id="node24" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="788,453,996,480"/>
+<area shape="rect" id="node28" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="743,379,993,405"/>
+<area shape="rect" id="node25" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1562,528,1777,555"/>
+<area shape="rect" id="node30" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1121,453,1332,480"/>
+<area shape="rect" id="node33" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1287,528,1537,555"/>
+</map>

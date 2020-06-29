@@ -1,0 +1,8 @@
+<map id="iDynTree::ForceVector3Semantics" name="iDynTree::ForceVector3Semantics">
+<area shape="rect" id="node4" href="$classiDynTree_1_1ForceVector3Semantics.html" title="iDynTree::ForceVector3Semantics\l\&lt; LinearForceVector3Semantics \&gt;" alt="" coords="1263,5,1507,47"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1ForceVector3Semantics.html" title="iDynTree::ForceVector3Semantics\l\&lt; AngularForceVector3Semantics \&gt;" alt="" coords="1257,71,1512,112"/>
+<area shape="rect" id="node2" href="$classiDynTree_1_1GeomVector3Semantics.html" title="iDynTree::GeomVector3Semantics\l\&lt; ForceTSemantics \&gt;" alt="" coords="441,39,684,80"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1GeomVector3Semantics.html" title="Template class providing the semantics for any geometric relation vector. " alt="" coords="5,46,248,73"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1LinearForceVector3Semantics.html" title="Class providing the semantics for any angular motion vector (angular velocity or acceleration). " alt="" coords="1567,5,1777,47"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1AngularForceVector3Semantics.html" title="Class providing the semantics for any angular force vector (torque or angular momentum). " alt="" coords="1561,71,1783,112"/>
+</map>

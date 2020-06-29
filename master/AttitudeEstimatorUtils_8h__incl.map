@@ -1,0 +1,31 @@
+<map id="AttitudeEstimatorUtils.h" name="AttitudeEstimatorUtils.h">
+<area shape="rect" id="node2" href="$AttitudeEstimator_8h.html" title="iDynTree/Estimation\l/AttitudeEstimator.h" alt="" coords="625,408,779,449"/>
+<area shape="rect" id="node23" href="$EigenHelpers_8h.html" title="iDynTree/Core/EigenHelpers.h" alt="" coords="931,80,1145,107"/>
+<area shape="rect" id="node3" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="776,587,991,613"/>
+<area shape="rect" id="node18" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1492,505,1675,531"/>
+<area shape="rect" id="node4" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="2097,736,2256,763"/>
+<area shape="rect" id="node6" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="355,661,516,688"/>
+<area shape="rect" id="node19" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1310,587,1521,613"/>
+<area shape="rect" id="node22" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1575,661,1826,688"/>
+<area shape="rect" id="node20" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="827,661,1041,688"/>
+<area shape="rect" id="node25" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="376,587,599,613"/>
+<area shape="rect" id="node26" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="853,162,1076,189"/>
+<area shape="rect" id="node27" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="1151,155,1357,196"/>
+<area shape="rect" id="node39" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="2265,155,2462,196"/>
+<area shape="rect" id="node43" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1181,333,1375,360"/>
+<area shape="rect" id="node28" href="$LinearMotionVector3_8h.html" title="iDynTree/Core/LinearMotion\lVector3.h" alt="" coords="2104,244,2305,285"/>
+<area shape="rect" id="node31" href="$PrivateMotionForceVertorAssociations_8h.html" title="iDynTree/Core/PrivateMotion\lForceVertorAssociations.h" alt="" coords="2389,497,2596,539"/>
+<area shape="rect" id="node32" href="$AngularMotionVector3_8h.html" title="iDynTree/Core/AngularMotion\lVector3.h" alt="" coords="2330,244,2541,285"/>
+<area shape="rect" id="node33" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="1633,333,1848,360"/>
+<area shape="rect" id="node29" href="$MotionVector3_8h.html" title="iDynTree/Core/MotionVector3.h" alt="" coords="2208,333,2431,360"/>
+<area shape="rect" id="node30" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="2060,415,2277,442"/>
+<area shape="rect" id="node34" href="$Position_8h.html" title="Position.h" alt="" coords="1367,415,1453,442"/>
+<area shape="rect" id="node37" href="$PrivatePreProcessorUtils_8h.html" title="iDynTree/Core/PrivatePre\lProcessorUtils.h" alt="" coords="1750,497,1934,539"/>
+<area shape="rect" id="node38" href="$PrivateSemanticsMacros_8h.html" title="iDynTree/Core/PrivateSemantics\lMacros.h" alt="" coords="1703,408,1933,449"/>
+<area shape="rect" id="node35" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="1158,505,1366,531"/>
+<area shape="rect" id="node36" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="1544,587,1793,613"/>
+<area shape="rect" id="node40" href="$LinearForceVector3_8h.html" title="iDynTree/Core/LinearForce\lVector3.h" alt="" coords="2565,244,2757,285"/>
+<area shape="rect" id="node42" href="$AngularForceVector3_8h.html" title="iDynTree/Core/AngularForce\lVector3.h" alt="" coords="2831,244,3034,285"/>
+<area shape="rect" id="node41" href="$ForceVector3_8h.html" title="iDynTree/Core/ForceVector3.h" alt="" coords="2606,333,2819,360"/>
+<area shape="rect" id="node44" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="1851,661,2113,688"/>
+</map>

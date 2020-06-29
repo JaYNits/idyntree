@@ -1,0 +1,28 @@
+<map id="iDynTree::KinDynComputations::KinDynComputationsPrivateAttributes" name="iDynTree::KinDynComputations::KinDynComputationsPrivateAttributes">
+<area shape="rect" id="node2" href="$classiDynTree_1_1FreeFloatingAcc.html" title="Class representing the accelerations of a Free Floating robot. " alt="" coords="1900,52,2089,79"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1SpatialAcc.html" title="Class representing a spatial acceleration, i.e. " alt="" coords="1917,895,2072,921"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1SpatialMotionVector.html" title="Class providing the raw coordinates for any motion spatial vector (i.e. " alt="" coords="1581,819,1799,845"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1SpatialVector.html" title="iDynTree::SpatialVector\l\&lt; SpatialMotionVector \&gt;" alt="" coords="1349,454,1532,495"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1SpatialMotionForceVectorT__traits.html" title="iDynTree::SpatialMotionForce\lVectorT_traits\&lt; DerivedSpatialVecT \&gt;" alt="" coords="550,435,819,477"/>
+<area shape="rect" id="node10" href="$classiDynTree_1_1SpatialVector.html" title="iDynTree::SpatialVector" alt="" coords="963,415,1136,441"/>
+<area shape="rect" id="node27" href="$classiDynTree_1_1SpatialVector.html" title="iDynTree::SpatialVector\l\&lt; SpatialForceVector \&gt;" alt="" coords="1354,319,1527,361"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1SpatialMotionForceVectorT__traits.html" title="Traits class for SpatialMotionVector and SpatialForceVector classes. " alt="" coords="5,428,256,484"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1SpatialVectorSemantics.html" title="iDynTree::SpatialVectorSemantics\l\&lt; typename LinearVector3T::\lSemanticsType, typename AngularVector3\lT::SemanticsType \&gt;" alt="" coords="536,249,833,319"/>
+<area shape="rect" id="node9" href="$classiDynTree_1_1SpatialVectorSemantics.html" title="iDynTree::SpatialVectorSemantics" alt="" coords="10,271,251,297"/>
+<area shape="rect" id="node11" href="$classiDynTree_1_1FreeFloatingPos.html" title="Class representing the position of a Free Floating robot. " alt="" coords="1900,153,2089,180"/>
+<area shape="rect" id="node12" href="$classiDynTree_1_1LinkAccArray.html" title="Class for storing a vector of spatial accelerations, one for each link in a model. " alt="" coords="1909,216,2081,243"/>
+<area shape="rect" id="node13" href="$classiDynTree_1_1MatrixDynSize.html" title="Class providing a simple form of matrix with dynamic size. " alt="" coords="1599,313,1781,340"/>
+<area shape="rect" id="node14" href="$classiDynTree_1_1FreeFloatingMassMatrix.html" title="Class representing the mass matrix of a Free Floating robot. " alt="" coords="1895,330,2094,371"/>
+<area shape="rect" id="node15" href="$classiDynTree_1_1LinkInertias.html" title="Class for storing a vector of SpatialInertia objects , one for each link in a model. " alt="" coords="1913,396,2076,423"/>
+<area shape="rect" id="node16" href="$classiDynTree_1_1FreeFloatingVel.html" title="iDynTree::FreeFloatingVel" alt="" coords="1901,447,2088,473"/>
+<area shape="rect" id="node17" href="$classiDynTree_1_1LinkTraversalsCache.html" title="Link traversal cache, store a traversal for each link in the model. " alt="" coords="1905,498,2085,539"/>
+<area shape="rect" id="node18" href="$classiDynTree_1_1Traversal.html" title="Class that represents a traversal of a set of links of a Model. " alt="" coords="1921,564,2068,591"/>
+<area shape="rect" id="node19" href="$classiDynTree_1_1Model.html" title="Class that represents a generic multibody model. " alt="" coords="1931,615,2058,641"/>
+<area shape="rect" id="node20" href="$classiDynTree_1_1LinkVelArray.html" title="Class for storing a vector of twists, one for each link in a model. " alt="" coords="1910,665,2079,692"/>
+<area shape="rect" id="node21" href="$classiDynTree_1_1VectorFixSize.html" title="iDynTree::VectorFixSize\&lt; 3 \&gt;" alt="" coords="1889,721,2100,748"/>
+<area shape="rect" id="node22" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="1603,714,1777,755"/>
+<area shape="rect" id="node23" href="$classiDynTree_1_1LinkPositions.html" title="iDynTree::LinkPositions" alt="" coords="1908,772,2081,799"/>
+<area shape="rect" id="node24" href="$classiDynTree_1_1LinkWrenches.html" title="Vector of wrenches connected in some way to the link of a model. " alt="" coords="1906,832,2083,859"/>
+<area shape="rect" id="node25" href="$classiDynTree_1_1SpatialMomentum.html" title="Class representing a spatial momentum, i.e. " alt="" coords="1891,103,2098,129"/>
+<area shape="rect" id="node26" href="$classiDynTree_1_1SpatialForceVector.html" title="Class providing the raw coordinates for any spatial force vector, (i.e. " alt="" coords="1586,237,1794,264"/>
+</map>

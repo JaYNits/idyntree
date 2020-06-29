@@ -1,0 +1,9 @@
+<map id="AttitudeEstimator.h" name="AttitudeEstimator.h">
+<area shape="rect" id="node2" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="419,229,633,256"/>
+<area shape="rect" id="node17" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="880,80,1063,107"/>
+<area shape="rect" id="node3" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="804,304,963,331"/>
+<area shape="rect" id="node5" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="327,304,488,331"/>
+<area shape="rect" id="node18" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="987,155,1198,181"/>
+<area shape="rect" id="node21" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="897,229,1147,256"/>
+<area shape="rect" id="node19" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="657,229,872,256"/>
+</map>

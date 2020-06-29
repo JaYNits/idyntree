@@ -1,0 +1,23 @@
+<map id="AttitudeQuaternionEKF.cpp" name="AttitudeQuaternionEKF.cpp">
+<area shape="rect" id="node2" href="$AttitudeQuaternionEKF_8h.html" title="iDynTree/Estimation\l/AttitudeQuaternionEKF.h" alt="" coords="383,333,567,375"/>
+<area shape="rect" id="node29" href="$AttitudeEstimatorUtils_8h.html" title="iDynTree/Estimation\l/AttitudeEstimatorUtils.h" alt="" coords="881,80,1063,121"/>
+<area shape="rect" id="node3" href="$AttitudeEstimator_8h.html" title="iDynTree/Estimation\l/AttitudeEstimator.h" alt="" coords="1097,423,1250,464"/>
+<area shape="rect" id="node24" href="$ExtendedKalmanFilter_8h.html" title="iDynTree/Estimation\l/ExtendedKalmanFilter.h" alt="" coords="105,423,285,464"/>
+<area shape="rect" id="node28" href="$Direction_8h.html" title="iDynTree/Core/Direction.h" alt="" coords="377,587,565,613"/>
+<area shape="rect" id="node4" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1043,661,1258,688"/>
+<area shape="rect" id="node19" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1061,512,1243,539"/>
+<area shape="rect" id="node5" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="193,736,351,763"/>
+<area shape="rect" id="node7" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="555,736,717,763"/>
+<area shape="rect" id="node20" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="1579,587,1797,613"/>
+<area shape="rect" id="node21" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1040,587,1251,613"/>
+<area shape="rect" id="node22" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1282,661,1497,688"/>
+<area shape="rect" id="node25" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="309,661,531,688"/>
+<area shape="rect" id="node26" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="410,512,633,539"/>
+<area shape="rect" id="node30" href="$EigenHelpers_8h.html" title="iDynTree/Core/EigenHelpers.h" alt="" coords="865,169,1079,196"/>
+<area shape="rect" id="node32" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="1641,244,1847,285"/>
+<area shape="rect" id="node36" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="1419,244,1616,285"/>
+<area shape="rect" id="node37" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="920,341,1115,367"/>
+<area shape="rect" id="node33" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="1481,341,1695,367"/>
+<area shape="rect" id="node34" href="$Position_8h.html" title="Position.h" alt="" coords="934,430,1021,457"/>
+<area shape="rect" id="node35" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="808,587,1016,613"/>
+</map>

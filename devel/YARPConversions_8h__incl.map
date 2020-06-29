@@ -1,0 +1,14 @@
+<map id="YARPConversions.h" name="YARPConversions.h">
+<area shape="rect" id="node4" href="$Wrench_8h.html" title="iDynTree/Core/Wrench.h" alt="" coords="349,80,527,107"/>
+<area shape="rect" id="node5" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="339,155,537,196"/>
+<area shape="rect" id="node6" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="332,543,547,569"/>
+<area shape="rect" id="node21" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="329,468,547,495"/>
+<area shape="rect" id="node22" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="477,244,692,271"/>
+<area shape="rect" id="node7" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="161,617,320,644"/>
+<area shape="rect" id="node9" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="344,617,505,644"/>
+<area shape="rect" id="node23" href="$Position_8h.html" title="Position.h" alt="" coords="752,319,839,345"/>
+<area shape="rect" id="node25" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="656,393,839,420"/>
+<area shape="rect" id="node24" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="958,468,1166,495"/>
+<area shape="rect" id="node26" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="673,468,883,495"/>
+<area shape="rect" id="node27" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="623,543,837,569"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="PrivateUtils.cpp" name="PrivateUtils.cpp">
+<area shape="rect" id="node2" href="$PrivateUtils_8h.html" title="iDynTree/Core/PrivateUtils.h" alt="" coords="447,80,653,107"/>
+<area shape="rect" id="node4" href="$EigenHelpers_8h.html" title="iDynTree/Core/EigenHelpers.h" alt="" coords="719,155,933,181"/>
+<area shape="rect" id="node5" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="2683,661,2905,688"/>
+<area shape="rect" id="node17" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1727,661,1941,688"/>
+<area shape="rect" id="node18" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="912,811,1071,837"/>
+<area shape="rect" id="node21" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="2535,490,2757,517"/>
+<area shape="rect" id="node22" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1156,736,1371,763"/>
+<area shape="rect" id="node24" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="895,229,1101,271"/>
+<area shape="rect" id="node39" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="590,229,787,271"/>
+<area shape="rect" id="node43" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1882,408,2077,435"/>
+<area shape="rect" id="node6" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="2724,736,2885,763"/>
+<area shape="rect" id="node25" href="$LinearMotionVector3_8h.html" title="iDynTree/Core/LinearMotion\lVector3.h" alt="" coords="1013,319,1215,360"/>
+<area shape="rect" id="node31" href="$PrivateMotionForceVertorAssociations_8h.html" title="iDynTree/Core/PrivateMotion\lForceVertorAssociations.h" alt="" coords="609,572,816,613"/>
+<area shape="rect" id="node32" href="$AngularMotionVector3_8h.html" title="iDynTree/Core/AngularMotion\lVector3.h" alt="" coords="778,319,989,360"/>
+<area shape="rect" id="node33" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="1203,408,1417,435"/>
+<area shape="rect" id="node26" href="$MotionVector3_8h.html" title="iDynTree/Core/MotionVector3.h" alt="" coords="900,408,1123,435"/>
+<area shape="rect" id="node27" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="928,490,1145,517"/>
+<area shape="rect" id="node28" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1503,579,1685,606"/>
+<area shape="rect" id="node29" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1491,661,1702,688"/>
+<area shape="rect" id="node30" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1395,736,1646,763"/>
+<area shape="rect" id="node34" href="$Position_8h.html" title="Position.h" alt="" coords="2047,490,2133,517"/>
+<area shape="rect" id="node37" href="$PrivatePreProcessorUtils_8h.html" title="iDynTree/Core/PrivatePre\lProcessorUtils.h" alt="" coords="1243,572,1427,613"/>
+<area shape="rect" id="node38" href="$PrivateSemanticsMacros_8h.html" title="iDynTree/Core/PrivateSemantics\lMacros.h" alt="" coords="1373,483,1604,524"/>
+<area shape="rect" id="node35" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="2017,579,2225,606"/>
+<area shape="rect" id="node36" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="2299,661,2548,688"/>
+<area shape="rect" id="node40" href="$LinearForceVector3_8h.html" title="iDynTree/Core/LinearForce\lVector3.h" alt="" coords="511,319,703,360"/>
+<area shape="rect" id="node42" href="$AngularForceVector3_8h.html" title="iDynTree/Core/AngularForce\lVector3.h" alt="" coords="285,319,487,360"/>
+<area shape="rect" id="node41" href="$ForceVector3_8h.html" title="iDynTree/Core/ForceVector3.h" alt="" coords="386,408,599,435"/>
+<area shape="rect" id="node44" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="1873,736,2136,763"/>
+</map>

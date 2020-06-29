@@ -1,0 +1,4 @@
+<map id="iDynTree::TransformSemantics" name="iDynTree::TransformSemantics">
+<area shape="rect" id="node2" href="$classiDynTree_1_1RotationSemantics.html" title="Class providing the semantics for iDynTree::Rotation class. " alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1PositionSemantics.html" title="Class providing the semantics for iDynTree::Position class. " alt="" coords="239,5,445,32"/>
+</map>

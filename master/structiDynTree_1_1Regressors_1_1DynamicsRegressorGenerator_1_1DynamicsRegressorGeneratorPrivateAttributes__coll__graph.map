@@ -1,0 +1,5 @@
+<map id="iDynTree::Regressors::DynamicsRegressorGenerator::DynamicsRegressorGeneratorPrivateAttributes" name="iDynTree::Regressors::DynamicsRegressorGenerator::DynamicsRegressorGeneratorPrivateAttributes">
+<area shape="rect" id="node2" href="$classiDynTree_1_1SensorsMeasurements.html" title="A list of measurements associated with a SensorsList . " alt="" coords="5,11,240,37"/>
+<area shape="rect" id="node3" href="$classKDL_1_1CoDyCo_1_1Regressors_1_1DynamicRegressorGenerator.html" title="The dynamics regressor generator is a class for calculating arbitrary regressor related to robot dyna..." alt="" coords="397,42,615,83"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1SensorsList.html" title="Structure representing a group of sensors associated with an UndirectedTree. " alt="" coords="42,80,203,107"/>
+</map>

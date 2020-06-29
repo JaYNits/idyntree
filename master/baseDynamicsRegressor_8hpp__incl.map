@@ -1,0 +1,32 @@
+<map id="baseDynamicsRegressor.hpp" name="baseDynamicsRegressor.hpp">
+<area shape="rect" id="node4" href="$dynamicRegressorInterface_8hpp.html" title="dynamicRegressorInterface.hpp" alt="" coords="302,80,530,107"/>
+<area shape="rect" id="node8" href="$Sensors_8h.html" title="iDynTree/Sensors/Sensors.h" alt="" coords="693,155,894,181"/>
+<area shape="rect" id="node5" href="$DynamicsRegressorParameters_8h.html" title="iDynTree/Regressors\l/DynamicsRegressorParameters.h" alt="" coords="291,304,533,345"/>
+<area shape="rect" id="node10" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="2291,721,2514,748"/>
+<area shape="rect" id="node20" href="$Model_8h.html" title="iDynTree/Model/Model.h" alt="" coords="931,229,1109,256"/>
+<area shape="rect" id="node22" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="696,393,880,420"/>
+<area shape="rect" id="node11" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="2291,796,2453,823"/>
+<area shape="rect" id="node21" href="$IJoint_8h.html" title="iDynTree/Model/IJoint.h" alt="" coords="825,311,996,338"/>
+<area shape="rect" id="node23" href="$Link_8h.html" title="iDynTree/Model/Link.h" alt="" coords="1263,311,1428,338"/>
+<area shape="rect" id="node39" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1213,393,1408,420"/>
+<area shape="rect" id="node47" href="$SolidShapes_8h.html" title="iDynTree/Model/SolidShapes.h" alt="" coords="1021,311,1238,338"/>
+<area shape="rect" id="node24" href="$SpatialInertia_8h.html" title="iDynTree/Core/SpatialInertia.h" alt="" coords="2105,468,2321,495"/>
+<area shape="rect" id="node25" href="$SpatialInertiaRaw_8h.html" title="iDynTree/Core/SpatialInertia\lRaw.h" alt="" coords="1699,543,1903,584"/>
+<area shape="rect" id="node32" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="2053,721,2267,748"/>
+<area shape="rect" id="node33" href="$Twist_8h.html" title="iDynTree/Core/Twist.h" alt="" coords="1928,550,2091,577"/>
+<area shape="rect" id="node35" href="$SpatialMomentum_8h.html" title="iDynTree/Core/SpatialMomentum.h" alt="" coords="2336,550,2584,577"/>
+<area shape="rect" id="node37" href="$SpatialAcc_8h.html" title="iDynTree/Core/SpatialAcc.h" alt="" coords="2115,550,2312,577"/>
+<area shape="rect" id="node38" href="$Wrench_8h.html" title="iDynTree/Core/Wrench.h" alt="" coords="2609,550,2786,577"/>
+<area shape="rect" id="node26" href="$RotationalInertiaRaw_8h.html" title="iDynTree/Core/Rotational\lInertiaRaw.h" alt="" coords="1779,632,1962,673"/>
+<area shape="rect" id="node27" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1814,721,2029,748"/>
+<area shape="rect" id="node28" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1651,796,1810,823"/>
+<area shape="rect" id="node34" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="2057,632,2263,673"/>
+<area shape="rect" id="node36" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="2361,632,2559,673"/>
+<area shape="rect" id="node40" href="$Position_8h.html" title="Position.h" alt="" coords="1145,468,1231,495"/>
+<area shape="rect" id="node43" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1271,550,1454,577"/>
+<area shape="rect" id="node46" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="1527,721,1790,748"/>
+<area shape="rect" id="node41" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="1084,639,1292,666"/>
+<area shape="rect" id="node42" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="810,639,1059,666"/>
+<area shape="rect" id="node44" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1417,639,1628,666"/>
+<area shape="rect" id="node45" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1201,721,1452,748"/>
+</map>

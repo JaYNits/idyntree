@@ -1,0 +1,18 @@
+<map id="OriginElement.cpp" name="OriginElement.cpp">
+<area shape="rect" id="node2" href="$OriginElement_8h.html" title="OriginElement.h" alt="" coords="240,80,367,107"/>
+<area shape="rect" id="node9" href="$URDFParsingUtils_8h.html" title="URDFParsingUtils.h" alt="" coords="1106,80,1253,107"/>
+<area shape="rect" id="node13" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="922,155,1117,181"/>
+<area shape="rect" id="node37" href="$XMLAttribute_8h.html" title="iDynTree/XMLAttribute.h" alt="" coords="417,304,595,331"/>
+<area shape="rect" id="node3" href="$XMLElement_8h.html" title="iDynTree/XMLElement.h" alt="" coords="215,155,391,181"/>
+<area shape="rect" id="node16" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1536,453,1751,480"/>
+<area shape="rect" id="node14" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="929,229,1110,256"/>
+<area shape="rect" id="node30" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1095,304,1277,331"/>
+<area shape="rect" id="node32" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1775,453,1989,480"/>
+<area shape="rect" id="node35" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="1249,453,1512,480"/>
+<area shape="rect" id="node15" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="822,379,1030,405"/>
+<area shape="rect" id="node29" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="720,304,969,331"/>
+<area shape="rect" id="node17" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1469,528,1628,555"/>
+<area shape="rect" id="node19" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1260,528,1421,555"/>
+<area shape="rect" id="node31" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1155,379,1366,405"/>
+<area shape="rect" id="node34" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="974,453,1225,480"/>
+</map>

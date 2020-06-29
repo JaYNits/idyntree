@@ -1,0 +1,14 @@
+<map id="URDFParsingUtils.h" name="URDFParsingUtils.h">
+<area shape="rect" id="node7" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="851,80,1045,107"/>
+<area shape="rect" id="node10" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="334,379,549,405"/>
+<area shape="rect" id="node8" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="1176,155,1357,181"/>
+<area shape="rect" id="node24" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1019,229,1202,256"/>
+<area shape="rect" id="node26" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="573,379,787,405"/>
+<area shape="rect" id="node29" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="811,379,1074,405"/>
+<area shape="rect" id="node9" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="1293,304,1501,331"/>
+<area shape="rect" id="node23" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="1354,229,1603,256"/>
+<area shape="rect" id="node11" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="841,453,999,480"/>
+<area shape="rect" id="node13" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="358,453,519,480"/>
+<area shape="rect" id="node25" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="957,304,1168,331"/>
+<area shape="rect" id="node28" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1149,379,1400,405"/>
+</map>

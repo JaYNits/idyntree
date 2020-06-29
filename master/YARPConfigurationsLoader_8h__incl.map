@@ -1,0 +1,9 @@
+<map id="YARPConfigurationsLoader.h" name="YARPConfigurationsLoader.h">
+<area shape="rect" id="node3" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="324,80,507,107"/>
+<area shape="rect" id="node5" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="473,155,683,181"/>
+<area shape="rect" id="node13" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="290,229,541,256"/>
+<area shape="rect" id="node14" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="855,229,1069,256"/>
+<area shape="rect" id="node6" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="616,229,831,256"/>
+<area shape="rect" id="node7" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="644,304,803,331"/>
+<area shape="rect" id="node15" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1068,304,1229,331"/>
+</map>

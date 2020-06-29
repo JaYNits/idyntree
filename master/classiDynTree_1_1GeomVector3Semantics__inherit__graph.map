@@ -1,0 +1,12 @@
+<map id="iDynTree::GeomVector3Semantics" name="iDynTree::GeomVector3Semantics">
+<area shape="rect" id="node2" href="$classiDynTree_1_1GeomVector3Semantics.html" title="iDynTree::GeomVector3Semantics\l\&lt; LinearMotionVector3Semantics \&gt;" alt="" coords="546,5,799,47"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1GeomVector3Semantics.html" title="iDynTree::GeomVector3Semantics\l\&lt; AngularMotionVector3Semantics \&gt;" alt="" coords="541,71,804,112"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1GeomVector3Semantics.html" title="iDynTree::GeomVector3Semantics\l\&lt; ForceTSemantics \&gt;" alt="" coords="551,136,794,177"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1LinearMotionVector3Semantics.html" title="Class providing the semantics for any linear motion vector. " alt="" coords="863,5,1083,47"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1AngularMotionVector3Semantics.html" title="Class providing the semantics for any angular motion vector (angular velocity or acceleration). " alt="" coords="857,71,1088,112"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1ForceVector3Semantics.html" title="Template class providing the semantics for any Force relation vector. " alt="" coords="853,143,1092,170"/>
+<area shape="rect" id="node8" href="$classiDynTree_1_1ForceVector3Semantics.html" title="iDynTree::ForceVector3Semantics\l\&lt; LinearForceVector3Semantics \&gt;" alt="" coords="1383,103,1627,144"/>
+<area shape="rect" id="node10" href="$classiDynTree_1_1ForceVector3Semantics.html" title="iDynTree::ForceVector3Semantics\l\&lt; AngularForceVector3Semantics \&gt;" alt="" coords="1377,168,1632,209"/>
+<area shape="rect" id="node9" href="$classiDynTree_1_1LinearForceVector3Semantics.html" title="Class providing the semantics for any angular motion vector (angular velocity or acceleration). " alt="" coords="1687,103,1897,144"/>
+<area shape="rect" id="node11" href="$classiDynTree_1_1AngularForceVector3Semantics.html" title="Class providing the semantics for any angular force vector (torque or angular momentum). " alt="" coords="1681,168,1903,209"/>
+</map>

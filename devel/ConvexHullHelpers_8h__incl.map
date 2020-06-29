@@ -1,0 +1,14 @@
+<map id="ConvexHullHelpers.h" name="ConvexHullHelpers.h">
+<area shape="rect" id="node4" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="42,155,265,181"/>
+<area shape="rect" id="node5" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="289,155,471,181"/>
+<area shape="rect" id="node26" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="413,80,608,107"/>
+<area shape="rect" id="node27" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="641,379,863,405"/>
+<area shape="rect" id="node6" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="257,304,465,331"/>
+<area shape="rect" id="node21" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="575,229,758,256"/>
+<area shape="rect" id="node7" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="887,379,1102,405"/>
+<area shape="rect" id="node8" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1013,453,1171,480"/>
+<area shape="rect" id="node10" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="685,453,846,480"/>
+<area shape="rect" id="node22" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="591,304,809,331"/>
+<area shape="rect" id="node23" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="884,304,1095,331"/>
+<area shape="rect" id="node24" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1126,379,1341,405"/>
+</map>

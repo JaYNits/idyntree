@@ -1,0 +1,7 @@
+<map id="iDynTree::AngularMotionVector3" name="iDynTree::AngularMotionVector3">
+<area shape="rect" id="node2" href="$classiDynTree_1_1MotionVector3.html" title="iDynTree::MotionVector3\l\&lt; AngularMotionVector3 \&gt;" alt="" coords="23,351,218,392"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1MotionVector3.html" title="Class providing the raw coordinates and semantics for any motion vector. " alt="" coords="31,261,211,288"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1GeomVector3.html" title="iDynTree::GeomVector3\l\&lt; MotionT \&gt;" alt="" coords="33,171,208,212"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1GeomVector3.html" title="Template class providing the raw coordinates and semantics for any geometric relation vector..." alt="" coords="33,81,208,108"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="85,5,156,32"/>
+</map>
